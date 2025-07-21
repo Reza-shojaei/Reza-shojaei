@@ -52,8 +52,8 @@ A simple GPS tracker with **Arduino UNO** + **SIM808** that sends location to a 
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="shojaeereza11gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/reza-shojaee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
