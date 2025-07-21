@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/mKwkRCb.png" alt="Embedded Developer Banner" width="100%"/>
-</p>
-
 <!-- INTRO -->
 <h1 align="center">Hi there 👋 I'm Reza Shojaei</h1>
 <p align="center">
